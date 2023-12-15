@@ -1,29 +1,28 @@
 <h1>Update Threats Definitions and Run Antivirus Scans</h1>
 
 
-<h2>Description</h2>
+<h2>Description and Objectives</h2>
 
-For this project I completed an internal security audit for an immaginary company based in the U.S.</b>
+In this project I was able to:
 
-This activity belongs to _Identify_, the first of the five key functions composing the [**NIST Cybersecurity Framework**](https://www.nist.gov/cyberframework)</b>
+- Review Windows Security Virus and threat protection.</b>
+- Update threat definitions.</b>
+- Run Windows Defender Antivirus quick scan.</b>
 
-A security audit is a review of the organization's security controls, policies, and procedures against a set of expectations.</b>
+<h2>Project walk-through</h2>
 
-This project comprises of three documents:</b>
+<h3><p align="center">1.Update threat definitions: </h3>
 
-1. [_Controls assessment_](https://github.com/arnius88/InternalAudit/blob/main/1.Controls%20assessment.pdf), where I listed the current assets. Here, I was able to assess and prioritize them based on the need to implement various administrative, technical and physical controls across the company.
-2. [_Compliance checklist_](https://github.com/arnius88/InternalAudit/blob/main/2.Compliance%20checklist.pdf), where I determined what compliance regulations and policies the company needs to adhere to do business online and outside of the U.S.
-3. [_Stakeholder memorandum_](https://github.com/arnius88/InternalAudit/blob/main/3.Stakeholder%20memorandum.pdf), is a final document where I included scope and goals of the audit as well as findings and final recommendations to be reported to stakeholders in order to seek approval and increase security spending.
-<br/>
+<p align="center"><img width="60%" alt="image" src="https://github.com/matteoarnetoli/update_threats/assets/152484037/aaaafd9d-d47c-4818-be00-16586d3b92b7"></b>
 
+I updated the threat definitions (also known as security intelligence) by manually checking for updates within the _Virus and Threat Protection updates_ area of Windows Defender.</b>
 
-<h2>Scenario</h2>
+<h3><p align="center">2.Run Antivirus Quick Scan: </h3>
 
+<p align="center"><img width="50%" alt="image" src="https://github.com/matteoarnetoli/update_threats/assets/152484037/c137d7b1-12a4-412b-8ca0-341b9468fab5"></b>
 
-<h2>Learnings</h2>
+I ran a quick scan by pressing the relevant button withing the _Current threats_ area of Microsoft Defender.</b>
 
-- <b>The importance of implementing controls in order to protect assets</b>
-- <b>The need to align business practices with industry standards</b>
-- <b>How to identify vulnerabilities</b>
-- <b>How to prioritize controls</b>
-- <b>Communicate critical findings and recommendations in a clear and concise way</b>
+<p align="center"><img width="452" alt="image" src="https://github.com/matteoarnetoli/update_threats/assets/152484037/64531e0b-1925-4b51-a95b-b4d54050bb81">
+
+By clicking _Threat History_, once the scan is completed, I accessed the details of any recent findings. In this section, I can view whether any threats was identified. In addition, I can see any quarantined file as well as any object that was recognized as a threat but is still allowed to run in the machine (_Allowed threats_).
