@@ -34,8 +34,8 @@ By clicking _Threat History_, once the scan is completed, I accessed the details
 I decided to run a custom scan that only scans files included in the **Downloads** folder. To achieve this is followed the following path:</b>
 
 
-Select **Scan options** under the **Quick scan** button > Select **Custom scan**, then click **Scan now** > Select the **Downloads** folder and click the **Select Folder** button > Click  **Scan now**.
-</b>
+
+Select **Scan options** under the **Quick scan** button > Select **Custom scan**, then click **Scan now** > Select the **Downloads** folder and click the **Select Folder** button > Click  **Scan now**.</b>
 
 
 
